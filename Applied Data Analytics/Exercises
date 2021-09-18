@@ -1,0 +1,3 @@
+The folder captures the exercises involving common data issues that arise in real life. Further, performances of Naive Bayes and Neural Network classifiers have been compared in solving these issues.
+Data denoising and event detected in time series data.
+Data dimension reduction using PCA and Fischer Linear Discriminant.
